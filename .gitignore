@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.env.local
+coverage
+*.log
+apps/api/data/*.db
+apps/api/uploads/*
+!apps/api/uploads/.gitkeep
+!apps/api/uploads/seeds/
+!apps/api/uploads/seeds/*.svg

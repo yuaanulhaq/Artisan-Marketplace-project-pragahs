@@ -1,0 +1,269 @@
+{
+  "branding": {
+    "eyebrow": "وراثت سے تیار",
+    "name": "آرٹیزن مارکیٹ پلیس"
+  },
+  "navigation": {
+    "language": "زبان",
+    "home": "ہوم",
+    "marketplace": "مارکیٹ پلیس",
+    "cart": "کارٹ",
+    "wishlist": "وش لسٹ",
+    "orders": "آرڈرز",
+    "artisanDashboard": "کاریگر ڈیش بورڈ",
+    "adminPanel": "ایڈمن پینل"
+  },
+  "languages": {
+    "en": "انگریزی",
+    "hi": "ہندی",
+    "ur": "اردو"
+  },
+  "actions": {
+    "login": "لاگ ان",
+    "logout": "لاگ آؤٹ",
+    "signup": "سائن اپ",
+    "shopNow": "ابھی خریدیں",
+    "joinMarketplace": "مارکیٹ پلیس سے جڑیں",
+    "viewProfile": "پروفائل دیکھیں",
+    "refresh": "ری فریش",
+    "addToCart": "کارٹ میں شامل کریں",
+    "addToWishlist": "وش لسٹ میں شامل کریں",
+    "submitReview": "جائزہ بھیجیں",
+    "createAccount": "اکاؤنٹ بنائیں",
+    "placeOrder": "آرڈر کریں",
+    "remove": "ہٹائیں",
+    "markShipped": "شپ کریں",
+    "markDelivered": "ڈیلیور کریں",
+    "raiseDispute": "تنازع درج کریں",
+    "saveStory": "کہانی محفوظ کریں",
+    "updateProduct": "پروڈکٹ اپڈیٹ کریں",
+    "addProduct": "پروڈکٹ شامل کریں",
+    "edit": "ترمیم",
+    "delete": "حذف کریں",
+    "approve": "منظور کریں",
+    "reject": "مسترد کریں",
+    "feature": "نمایاں کریں",
+    "unfeature": "نمایاں ہٹائیں",
+    "trend": "ٹرینڈنگ بنائیں",
+    "untrend": "ٹرینڈنگ ہٹائیں",
+    "resolve": "حل کریں"
+  },
+  "support": {
+    "title": "مدد",
+    "subtitle": "اعتماد، ثقافت اور آسان دریافت کے لیے تیار کیا گیا۔",
+    "description": "سادہ خریداری، کاریگر کی کہانی اور کم بینڈوڈتھ والی براؤزنگ ہر صارف کو آسان تجربہ دیتی ہے۔"
+  },
+  "home": {
+    "heroEyebrow": "براہ راست ہنر تجارت",
+    "heroTitle": "مقامی کاریگروں کی کہانیاں، اعتماد کے ساتھ آپ تک۔",
+    "heroDescription": "خریداروں کو تصدیق شدہ کاریگروں سے ملائیں، علاقائی ہنر دریافت کریں، اور محفوظ تجارت سے ثقافت کو جوڑیں۔",
+    "featuredArtisansEyebrow": "نمایاں کاریگر",
+    "featuredArtisansTitle": "ہر چیز کے پیچھے موجود ہاتھوں سے ملیں۔",
+    "featuredArtisansDescription": "پروفائل میں ہنر کی روایت، علاقہ اور ثقافتی پس منظر واضح طور پر دکھایا جاتا ہے۔",
+    "trendingEyebrow": "ٹرینڈنگ ہنر",
+    "trendingTitle": "اس ہفتے کی مقبول دستکاری۔",
+    "trendingDescription": "واضح قیمت، اعتماد کی علامتوں اور کہانی کے ساتھ مصنوعات دیکھیں۔",
+    "cards": {
+      "trust": {
+        "title": "تصدیق شدہ فروخت کنندہ",
+        "description": "شناختی جانچ کے بعد ہر منظور شدہ کاریگر کو اعتماد کا بیج ملتا ہے۔"
+      },
+      "story": {
+        "title": "کاریگر کی کہانی",
+        "description": "خریدار مواد، روایت اور ثقافتی جڑوں کے بارے میں جان سکتے ہیں۔"
+      },
+      "reach": {
+        "title": "براہ راست رابطہ",
+        "description": "آرڈر براہ راست خریدار سے کاریگر تک پہنچتا ہے۔"
+      },
+      "payments": {
+        "title": "محفوظ ادائیگی",
+        "description": "چیک آؤٹ محفوظ ادائیگی اور واضح ٹریکنگ کے لیے بنایا گیا ہے۔"
+      }
+    }
+  },
+  "states": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "noArtisans": "ابھی کوئی کاریگر دستیاب نہیں۔",
+    "noArtisansDescription": "منظور شدہ کاریگروں کے پروفائل یہاں دکھائی دیں گے۔",
+    "noProducts": "کوئی پروڈکٹ نہیں ملا۔",
+    "noProductsDescription": "فلٹر تبدیل کریں یا نئی فہرست کے لیے بعد میں دیکھیں۔"
+  },
+  "badges": {
+    "verified": "تصدیق شدہ",
+    "pending": "زیر التوا"
+  },
+  "labels": {
+    "rating": "ریٹنگ",
+    "price": "قیمت",
+    "authenticityTag": "اصلیت ٹیگ",
+    "region": "علاقہ",
+    "role": "کردار"
+  },
+  "categories": {
+    "pottery": "مٹی کا ہنر",
+    "decor": "سجاوٹ",
+    "textiles": "کپڑا کاری",
+    "jewelry": "زیورات",
+    "woodwork": "لکڑی کا کام",
+    "paintings": "مصوری"
+  },
+  "marketplace": {
+    "title": "مارکیٹ پلیس دیکھیں",
+    "description": "زمرہ، علاقہ، قیمت اور مقبولیت کے مطابق مصنوعات تلاش کریں۔",
+    "filters": {
+      "search": "پروڈکٹ یا کاریگر تلاش کریں",
+      "allCategories": "تمام زمرے",
+      "region": "علاقہ منتخب کریں",
+      "minPrice": "کم از کم قیمت"
+    },
+    "sort": {
+      "newest": "نیا ترین",
+      "popular": "سب سے مقبول",
+      "rating": "اعلیٰ درجہ",
+      "priceAsc": "قیمت: کم سے زیادہ",
+      "priceDesc": "قیمت: زیادہ سے کم"
+    }
+  },
+  "product": {
+    "name": "پروڈکٹ نام",
+    "description": "پروڈکٹ تفصیل",
+    "stock": "اسٹاک",
+    "materials": "مواد",
+    "leadTimeDays": "تیاری کے دن",
+    "featuredImageUrl": "نمایاں تصویر URL",
+    "artisanStory": "کاریگر کی کہانی",
+    "addedToCart": "پروڈکٹ کارٹ میں شامل ہو گیا۔",
+    "addedToWishlist": "پروڈکٹ وش لسٹ میں شامل ہو گیا۔",
+    "reviewSaved": "جائزہ محفوظ ہو گیا۔"
+  },
+  "reviews": {
+    "title": "ریٹنگ اور جائزے",
+    "emptyTitle": "ابھی کوئی جائزہ نہیں۔",
+    "emptyDescription": "پہلا خریدار جائزہ یہاں ظاہر ہوگا۔",
+    "addTitle": "اپنا تجربہ شیئر کریں",
+    "commentPlaceholder": "ہنر، معیار اور ڈیلیوری کے بارے میں لکھیں۔"
+  },
+  "auth": {
+    "loginEyebrow": "دوبارہ خوش آمدید",
+    "loginTitle": "اپنے اکاؤنٹ میں داخل ہوں۔",
+    "signupEyebrow": "نیا صارف",
+    "signupTitle": "خریدنے یا بیچنے کے لیے اکاؤنٹ بنائیں۔",
+    "email": "ای میل ایڈریس",
+    "password": "پاس ورڈ",
+    "name": "پورا نام",
+    "region": "علاقہ",
+    "noAccount": "اکاؤنٹ نہیں ہے؟",
+    "haveAccount": "کیا آپ کے پاس اکاؤنٹ ہے؟"
+  },
+  "roles": {
+    "buyer": "خریدار",
+    "artisan": "کاریگر",
+    "admin": "ایڈمن"
+  },
+  "artisan": {
+    "craft": "ہنر کی مہارت",
+    "story": "کاریگر کی کہانی",
+    "culturalInfo": "ثقافتی معلومات",
+    "storySaved": "کہانی اپڈیٹ ہو گئی۔",
+    "productSaved": "پروڈکٹ محفوظ ہو گیا۔",
+    "storyEditor": "اپنی کہانی ترمیم کریں",
+    "editProduct": "پروڈکٹ ترمیم کریں",
+    "addProduct": "پروڈکٹ شامل کریں",
+    "productLibrary": "آپ کی پروڈکٹ فہرست",
+    "noProductsTitle": "ابھی کوئی پروڈکٹ شائع نہیں ہوا۔",
+    "noProductsDescription": "اپنی پہلی فہرست کے لیے فارم استعمال کریں۔",
+    "analyticsTitle": "فروخت کا خلاصہ",
+    "summary": {
+      "products": "پروڈکٹس",
+      "productsNote": "آپ کی دکان میں فعال فہرستیں۔",
+      "revenue": "آمدنی",
+      "revenueNote": "مکمل آرڈرز کی کل قیمت۔",
+      "orders": "آرڈرز",
+      "ordersNote": "آپ کی مصنوعات سے جڑے آرڈرز۔",
+      "views": "ویوز",
+      "viewsNote": "خریداروں نے فہرست کتنی بار کھولی۔"
+    }
+  },
+  "cart": {
+    "items": "آئٹمز",
+    "itemsNote": "چیک آؤٹ کے لیے منتخب مصنوعات۔",
+    "total": "کل",
+    "totalNote": "متوقع کل رقم۔",
+    "checkoutTitle": "چیک آؤٹ",
+    "checkoutNote": "شپنگ معلومات بھریں اور ادائیگی کی تصدیق کریں۔",
+    "secure": "محفوظ",
+    "emptyTitle": "آپ کی کارٹ خالی ہے۔",
+    "emptyDescription": "چیک آؤٹ شروع کرنے کے لیے پروڈکٹ شامل کریں۔",
+    "checkoutSuccess": "آرڈر کامیابی سے ہو گیا",
+    "redirecting": "Stripe چیک آؤٹ کی طرف بھیجا جا رہا ہے...",
+    "demoFallback": "Stripe ترتیب نہیں ہے، اس لیے چیک آؤٹ لوکل ڈیمو موڈ میں مکمل ہوا"
+  },
+  "checkout": {
+    "fullName": "پورا نام",
+    "line1": "پتہ",
+    "city": "شہر",
+    "state": "صوبہ",
+    "postalCode": "پوسٹل کوڈ",
+    "country": "ملک",
+    "phone": "فون نمبر"
+  },
+  "wishlist": {
+    "emptyTitle": "آپ کی وش لسٹ خالی ہے۔",
+    "emptyDescription": "دلچسپ مصنوعات کو بعد میں دیکھنے کے لیے یہاں محفوظ کریں۔"
+  },
+  "orders": {
+    "emptyTitle": "ابھی کوئی آرڈر نہیں۔",
+    "emptyDescription": "دیے گئے آرڈرز یہاں ٹریکنگ کے ساتھ نظر آئیں گے۔",
+    "orderId": "آرڈر آئی ڈی",
+    "tracking": "ٹریکنگ اپڈیٹس",
+    "disputePlaceholder": "اس آرڈر کے مسئلے کی وضاحت کریں۔",
+    "defaultDisputeReason": "خریدار کی طرف سے مسئلہ درج کیا گیا۔"
+  },
+  "status": {
+    "pending": "زیر التوا",
+    "processing": "تیاری میں",
+    "shipped": "روانہ",
+    "delivered": "پہنچ گیا",
+    "cancelled": "منسوخ",
+    "open": "کھلا",
+    "resolved": "حل شدہ",
+    "closed": "بند"
+  },
+  "orderUpdates": {
+    "pending": "آرڈر جائزے میں ہے۔",
+    "processing": "آرڈر تیار کیا جا رہا ہے۔",
+    "shipped": "آرڈر روانہ کر دیا گیا ہے۔",
+    "delivered": "آرڈر کامیابی سے پہنچ گیا۔",
+    "cancelled": "آرڈر منسوخ ہو گیا ہے۔"
+  },
+  "notifications": {
+    "title": "اطلاعات",
+    "empty": "آپ مکمل طور پر اپ ڈیٹ ہیں۔"
+  },
+  "admin": {
+    "pendingArtisans": "زیر التوا کاریگر منظوری",
+    "manageProducts": "پروڈکٹ نمایاں کرنے کا انتظام",
+    "disputesTitle": "تنازعات",
+    "usersTitle": "صارفین",
+    "approvalNote": "شناختی جائزے کے بعد منظور کیا گیا۔",
+    "rejectionNote": "براہ کرم واضح دستاویزات اپ لوڈ کریں اور دوبارہ کوشش کریں۔",
+    "resolutionNote": "ایڈمن ٹیم نے جائزہ لے کر مسئلہ حل کر دیا۔",
+    "overview": {
+      "users": "صارفین",
+      "artisans": "کاریگر",
+      "buyers": "خریدار",
+      "products": "پروڈکٹس",
+      "pending": "زیر التوا",
+      "disputes": "تنازعات"
+    },
+    "notes": {
+      "users": "کل رجسٹرڈ اکاؤنٹس۔",
+      "artisans": "تمام کاریگر اکاؤنٹس۔",
+      "buyers": "تمام خریدار اکاؤنٹس۔",
+      "products": "شائع شدہ پروڈکٹس۔",
+      "pending": "منظوری کے منتظر کاریگر۔",
+      "disputes": "کھلے سپورٹ کیسز۔"
+    }
+  }
+}

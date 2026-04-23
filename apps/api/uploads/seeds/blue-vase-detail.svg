@@ -1,0 +1,24 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="56" fill="#F7EFE1"/>
+  <rect x="110" y="118" width="980" height="664" rx="48" fill="#FFF9F0"/>
+  <path d="M0 743C173 678 342 668 516 724C662 772 815 793 972 753C1061 730 1130 699 1200 656V900H0V743Z" fill="#E8CCAA"/>
+  <rect x="266" y="622" width="668" height="24" rx="12" fill="#946038"/>
+  <path d="M518 212C518 175 548 146 585 146H615C652 146 682 175 682 212V264H518V212Z" fill="#E7F2FA"/>
+  <path d="M480 264H720C704 320 696 362 696 412C696 522 651 610 600 610C549 610 504 522 504 412C504 362 496 320 480 264Z" fill="#F4FBFF"/>
+  <path d="M517 330C560 299 616 286 668 286" stroke="#2D6F9A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M500 402C548 369 628 349 707 354" stroke="#2D6F9A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M518 476C566 444 622 429 678 432" stroke="#2D6F9A" stroke-width="14" stroke-linecap="round"/>
+  <path d="M560 316C576 333 587 353 591 374" stroke="#244E6E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M642 338C626 355 617 374 613 393" stroke="#244E6E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M577 462C596 480 609 499 614 519" stroke="#244E6E" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="566" cy="344" r="20" fill="#2D6F9A"/>
+  <circle cx="654" cy="314" r="18" fill="#2D6F9A"/>
+  <circle cx="626" cy="434" r="22" fill="#2D6F9A"/>
+  <circle cx="700" cy="366" r="16" fill="#2D6F9A"/>
+  <rect x="204" y="202" width="168" height="168" rx="32" fill="#E5EFEA"/>
+  <path d="M252 285C286 285 314 257 314 223C314 257 342 285 376 285C342 285 314 313 314 347C314 313 286 285 252 285Z" fill="#D4A268"/>
+  <rect x="820" y="194" width="180" height="180" rx="36" fill="#EFF2F6"/>
+  <path d="M870 282H950" stroke="#C49357" stroke-width="12" stroke-linecap="round"/>
+  <path d="M910 242V322" stroke="#C49357" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="910" cy="282" r="44" stroke="#C49357" stroke-width="12"/>
+</svg>

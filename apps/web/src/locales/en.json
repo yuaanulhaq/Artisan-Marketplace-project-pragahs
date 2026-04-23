@@ -1,0 +1,329 @@
+{
+  "branding": {
+    "eyebrow": "Crafted With Heritage",
+    "name": "Artisan Marketplace"
+  },
+  "navigation": {
+    "language": "Language",
+    "home": "Home",
+    "marketplace": "Marketplace",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "orders": "Orders",
+    "artisanDashboard": "Artisan Dashboard",
+    "adminPanel": "Admin Panel"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "Hindi",
+    "ur": "Urdu"
+  },
+  "actions": {
+    "login": "Login",
+    "logout": "Logout",
+    "signup": "Sign Up",
+    "shopNow": "Shop Now",
+    "joinMarketplace": "Join Marketplace",
+    "viewProfile": "View Profile",
+    "refresh": "Refresh",
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Add to Wishlist",
+    "submitReview": "Submit Review",
+    "createAccount": "Create Account",
+    "placeOrder": "Place Order",
+    "remove": "Remove",
+    "markShipped": "Mark Shipped",
+    "markDelivered": "Mark Delivered",
+    "raiseDispute": "Raise Dispute",
+    "saveStory": "Save Story",
+    "updateProduct": "Update Product",
+    "addProduct": "Add Product",
+    "edit": "Edit",
+    "delete": "Delete",
+    "approve": "Approve",
+    "reject": "Reject",
+    "feature": "Feature",
+    "unfeature": "Unfeature",
+    "trend": "Mark Trending",
+    "untrend": "Remove Trending",
+    "resolve": "Resolve"
+  },
+  "support": {
+    "title": "Support Circle",
+    "subtitle": "Built for trust, culture, and easy discovery.",
+    "description": "Simple buyer journeys, artisan-first storytelling, and low-bandwidth-friendly browsing keep the marketplace welcoming for every visitor."
+  },
+  "home": {
+    "heroEyebrow": "Direct Craft Commerce",
+    "heroTitle": "Handmade stories from local artisans, delivered with trust.",
+    "heroDescription": "Connect buyers with verified artisans, discover regional craftsmanship, and celebrate culture through secure direct-to-maker commerce.",
+    "heroImageAlt": "Curated artisan marketplace showcase",
+    "heroPanelEyebrow": "Marketplace Standard",
+    "heroPanelTitle": "Designed for heritage products that deserve premium presentation.",
+    "heroPanelDescription": "Every listing combines imagery, craft context, verification, and fulfillment clarity so buyers feel confident from first view to final delivery.",
+    "heroPanelItems": {
+      "verification": "Verified artisans and visible authenticity signals",
+      "storytelling": "Cultural storytelling built into the buying journey",
+      "fulfillment": "Clear checkout, tracking, and dispute support"
+    },
+    "metrics": {
+      "artisansValue": "150+",
+      "artisansLabel": "Artisans Onboarded",
+      "regionsValue": "24",
+      "regionsLabel": "Craft Regions Featured",
+      "verifiedValue": "100%",
+      "verifiedLabel": "Verified Seller Reviews"
+    },
+    "promiseEyebrow": "Why It Feels Trustworthy",
+    "promiseTitle": "A marketplace system built to look premium and operate simply.",
+    "promiseDescription": "The experience balances modern commerce structure with warm editorial storytelling so handmade products feel valuable, credible, and easy to browse.",
+    "collectionEyebrow": "Curated Collections",
+    "collectionTitle": "Merchandising that guides buyers toward craft-rich categories.",
+    "collectionDescription": "Category storytelling helps buyers discover products through mood, use case, and cultural identity rather than scrolling through a generic catalog.",
+    "collectionCards": {
+      "pottery": {
+        "title": "Blue pottery and tabletop pieces",
+        "description": "Hand-painted forms, decorative serving pieces, and collectable kiln-fired accents from regional studios."
+      },
+      "textiles": {
+        "title": "Textiles shaped by regional tradition",
+        "description": "Embroidery, woven surfaces, and soft goods with visible handwork, lighter materials, and strong gifting appeal."
+      },
+      "decor": {
+        "title": "Decor objects with cultural detail",
+        "description": "Home accents made for display, seasonal hosting, and interiors that benefit from warm handcrafted character."
+      }
+    },
+    "featuredArtisansEyebrow": "Featured Artisans",
+    "featuredArtisansTitle": "Meet the makers behind every piece.",
+    "featuredArtisansDescription": "Profiles highlight craft lineage, regional identity, and cultural context so buyers understand the hands behind the work.",
+    "trendingEyebrow": "Trending Crafts",
+    "trendingTitle": "Popular handmade finds this week.",
+    "trendingDescription": "Browse low-bandwidth-friendly product cards with strong storytelling, clear pricing, and visible trust signals.",
+    "trendingNote": "Each highlighted product now includes richer visuals, stronger material context, and cleaner trust cues to feel closer to a professional marketplace listing.",
+    "processEyebrow": "How It Works",
+    "processTitle": "A buying flow that keeps discovery simple and seller trust visible.",
+    "processDescription": "The homepage now guides visitors through what they can expect before they ever reach checkout.",
+    "process": {
+      "steps": {
+        "discover": {
+          "title": "Discover curated craft",
+          "description": "Browse featured categories, trending products, and artisan-led collections designed to reduce decision fatigue."
+        },
+        "connect": {
+          "title": "Read the story behind the work",
+          "description": "Every product can surface materials, authenticity tags, region, and artisan context so buyers understand what they are purchasing."
+        },
+        "deliver": {
+          "title": "Checkout with clarity",
+          "description": "Secure payment, tracking updates, and dispute handling are built into the marketplace structure from the start."
+        }
+      }
+    },
+    "ctaEyebrow": "Built To Convert With Warmth",
+    "ctaTitle": "Help buyers discover craft with the confidence of a polished modern storefront.",
+    "ctaDescription": "The updated landing page now feels more editorial, more premium, and more aligned with a serious marketplace brand while staying simple enough for low-tech users.",
+    "cards": {
+      "trust": {
+        "title": "Verified Sellers",
+        "description": "Every approved artisan carries a visible trust badge after identity review."
+      },
+      "story": {
+        "title": "Artisan Stories",
+        "description": "Buyers learn the background, materials, and cultural roots behind each product."
+      },
+      "reach": {
+        "title": "Direct Access",
+        "description": "Orders go straight from buyer to artisan without marketplace middle layers."
+      },
+      "payments": {
+        "title": "Secure Checkout",
+        "description": "Checkout flow is designed for safe payments and clear order tracking."
+      }
+    }
+  },
+  "states": {
+    "loading": "Loading...",
+    "noArtisans": "No artisans to show yet.",
+    "noArtisansDescription": "Featured artisan profiles will appear here once they are approved and published.",
+    "noProducts": "No products found.",
+    "noProductsDescription": "Try adjusting the filters or check back after new artisan listings are published."
+  },
+  "badges": {
+    "verified": "Verified",
+    "pending": "Pending"
+  },
+  "labels": {
+    "rating": "Rating",
+    "price": "Price",
+    "authenticityTag": "Authenticity Tag",
+    "region": "Region",
+    "role": "Role"
+  },
+  "categories": {
+    "pottery": "Pottery",
+    "decor": "Decor",
+    "textiles": "Textiles",
+    "jewelry": "Jewelry",
+    "woodwork": "Woodwork",
+    "paintings": "Paintings"
+  },
+  "marketplace": {
+    "title": "Browse the Marketplace",
+    "description": "Search handmade products by category, region, price, and popularity.",
+    "filters": {
+      "search": "Search products or artisans",
+      "allCategories": "All categories",
+      "region": "Filter by region",
+      "minPrice": "Minimum price"
+    },
+    "sort": {
+      "newest": "Newest",
+      "popular": "Most Popular",
+      "rating": "Highest Rated",
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low"
+    }
+  },
+  "product": {
+    "name": "Product Name",
+    "description": "Product Description",
+    "stock": "Stock",
+    "materials": "Materials",
+    "leadTimeDays": "Lead Time (days)",
+    "featuredImageUrl": "Featured image URL",
+    "artisanStory": "Artisan Story",
+    "addedToCart": "Product added to cart.",
+    "addedToWishlist": "Product added to wishlist.",
+    "reviewSaved": "Review saved successfully."
+  },
+  "reviews": {
+    "title": "Ratings and Reviews",
+    "emptyTitle": "No reviews yet.",
+    "emptyDescription": "The first buyer review will appear here.",
+    "addTitle": "Share your experience",
+    "commentPlaceholder": "Describe the craft, quality, and delivery experience."
+  },
+  "auth": {
+    "loginEyebrow": "Welcome Back",
+    "loginTitle": "Access your marketplace account.",
+    "signupEyebrow": "New Here",
+    "signupTitle": "Create an account to buy or sell.",
+    "email": "Email Address",
+    "password": "Password",
+    "name": "Full Name",
+    "region": "Region",
+    "noAccount": "Need an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "roles": {
+    "buyer": "Buyer",
+    "artisan": "Artisan",
+    "admin": "Admin"
+  },
+  "artisan": {
+    "craft": "Craft Specialty",
+    "story": "Artisan Story",
+    "culturalInfo": "Cultural Background",
+    "storySaved": "Artisan story updated successfully.",
+    "productSaved": "Product saved successfully.",
+    "storyEditor": "Edit Your Story",
+    "editProduct": "Edit Product",
+    "addProduct": "Add Product",
+    "productLibrary": "Your Product Library",
+    "noProductsTitle": "No products published yet.",
+    "noProductsDescription": "Use the product form to publish your first listing.",
+    "analyticsTitle": "Sales Snapshot",
+    "summary": {
+      "products": "Products",
+      "productsNote": "Active listings in your storefront.",
+      "revenue": "Revenue",
+      "revenueNote": "Total completed order value.",
+      "orders": "Orders",
+      "ordersNote": "Orders linked to your products.",
+      "views": "Views",
+      "viewsNote": "How often buyers opened your listings."
+    }
+  },
+  "cart": {
+    "items": "Items",
+    "itemsNote": "Products currently saved for checkout.",
+    "total": "Total",
+    "totalNote": "Estimated checkout total.",
+    "checkoutTitle": "Checkout",
+    "checkoutNote": "Collect shipping details and confirm payment.",
+    "secure": "Secure",
+    "emptyTitle": "Your cart is empty.",
+    "emptyDescription": "Add products from the marketplace to begin checkout.",
+    "checkoutSuccess": "Order placed successfully",
+    "redirecting": "Redirecting to Stripe checkout...",
+    "demoFallback": "Stripe is not configured, so checkout completed in local demo mode"
+  },
+  "checkout": {
+    "fullName": "Full Name",
+    "line1": "Address Line",
+    "city": "City",
+    "state": "State",
+    "postalCode": "Postal Code",
+    "country": "Country",
+    "phone": "Phone Number"
+  },
+  "wishlist": {
+    "emptyTitle": "Your wishlist is empty.",
+    "emptyDescription": "Save interesting products here so you can revisit them later."
+  },
+  "orders": {
+    "emptyTitle": "No orders yet.",
+    "emptyDescription": "Placed orders will appear here with tracking updates.",
+    "orderId": "Order ID",
+    "tracking": "Tracking Updates",
+    "disputePlaceholder": "Describe the issue with this order.",
+    "defaultDisputeReason": "Order issue reported by buyer."
+  },
+  "status": {
+    "pending": "Pending",
+    "processing": "Processing",
+    "shipped": "Shipped",
+    "delivered": "Delivered",
+    "cancelled": "Cancelled",
+    "open": "Open",
+    "resolved": "Resolved",
+    "closed": "Closed"
+  },
+  "orderUpdates": {
+    "pending": "Order is pending review.",
+    "processing": "Order is being prepared.",
+    "shipped": "Order has been shipped.",
+    "delivered": "Order delivered successfully.",
+    "cancelled": "Order has been cancelled."
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "You are all caught up."
+  },
+  "admin": {
+    "pendingArtisans": "Pending Artisan Approvals",
+    "manageProducts": "Manage Product Visibility",
+    "disputesTitle": "Disputes",
+    "usersTitle": "Users",
+    "approvalNote": "Approved after artisan verification review.",
+    "rejectionNote": "Please upload clearer verification documents and resubmit.",
+    "resolutionNote": "Issue reviewed and resolved by the marketplace admin team.",
+    "overview": {
+      "users": "Users",
+      "artisans": "Artisans",
+      "buyers": "Buyers",
+      "products": "Products",
+      "pending": "Pending",
+      "disputes": "Disputes"
+    },
+    "notes": {
+      "users": "Total registered accounts.",
+      "artisans": "All artisan accounts.",
+      "buyers": "All buyer accounts.",
+      "products": "Published and draft-ready products.",
+      "pending": "Artisans waiting for approval.",
+      "disputes": "Open customer support cases."
+    }
+  }
+}

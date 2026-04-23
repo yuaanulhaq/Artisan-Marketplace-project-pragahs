@@ -1,0 +1,26 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="56" fill="#F4E7D4"/>
+  <rect x="84" y="84" width="1032" height="732" rx="44" fill="#F8F0E5"/>
+  <path d="M0 685C171 633 274 613 448 655C596 690 695 751 857 743C987 737 1084 699 1200 641V900H0V685Z" fill="#E4C7A2"/>
+  <circle cx="936" cy="196" r="98" fill="#D7E4E1"/>
+  <circle cx="936" cy="196" r="58" fill="#F8F0E5"/>
+  <rect x="226" y="628" width="748" height="28" rx="14" fill="#8E5A32"/>
+  <rect x="278" y="656" width="644" height="30" rx="15" fill="#734724"/>
+  <path d="M472 270C460 310 452 348 452 390C452 506 517 600 600 600C683 600 748 506 748 390C748 348 740 310 728 270H472Z" fill="#F6FBFF"/>
+  <path d="M530 228C530 193 558 164 593 164H607C642 164 670 193 670 228V286H530V228Z" fill="#F6FBFF"/>
+  <path d="M480 286H720C707 342 700 381 700 424C700 521 656 590 600 590C544 590 500 521 500 424C500 381 493 342 480 286Z" fill="#E7F2FA"/>
+  <path d="M535 205C535 179 556 158 582 158H618C644 158 665 179 665 205V252H535V205Z" fill="#D8EBF4"/>
+  <path d="M532 360C566 328 620 309 670 312" stroke="#3778A4" stroke-width="14" stroke-linecap="round"/>
+  <path d="M504 435C547 403 619 382 700 388" stroke="#3778A4" stroke-width="14" stroke-linecap="round"/>
+  <path d="M522 507C568 472 625 457 680 458" stroke="#3778A4" stroke-width="14" stroke-linecap="round"/>
+  <path d="M538 318C558 335 572 359 576 383" stroke="#2A5676" stroke-width="10" stroke-linecap="round"/>
+  <path d="M660 354C638 376 626 402 624 428" stroke="#2A5676" stroke-width="10" stroke-linecap="round"/>
+  <path d="M558 458C583 477 600 498 607 524" stroke="#2A5676" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="554" cy="350" r="22" fill="#2F6F98"/>
+  <circle cx="650" cy="332" r="18" fill="#2F6F98"/>
+  <circle cx="621" cy="454" r="22" fill="#2F6F98"/>
+  <circle cx="708" cy="398" r="16" fill="#2F6F98"/>
+  <path d="M318 278C349 278 374 252 374 221C374 252 399 278 430 278C399 278 374 303 374 334C374 303 349 278 318 278Z" fill="#D8B17A"/>
+  <path d="M780 214C801 214 818 197 818 176C818 197 835 214 856 214C835 214 818 231 818 252C818 231 801 214 780 214Z" fill="#D8B17A"/>
+  <path d="M808 620C839 620 864 595 864 564C864 595 889 620 920 620C889 620 864 645 864 676C864 645 839 620 808 620Z" fill="#D8B17A"/>
+</svg>
