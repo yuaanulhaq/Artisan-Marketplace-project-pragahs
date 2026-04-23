@@ -29,3 +29,8 @@
   ...
   "start": "node apps/api/dist/server.js"
 }
+{
+  "scripts": {
+    "build": "tsc"   // or your build tool
+  }
+}
